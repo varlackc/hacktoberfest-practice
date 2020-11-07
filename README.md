@@ -181,6 +181,7 @@ Questions can be asked by raising an `Issue`.
 - [Mahnoor Anwar](https://github.com/Mahnoor-Anwar)
 - [Marios Georgiou](https://github.com/MariosGeorgiou)
 - [Matthias Maier](https://github.com/NukeTheFridge)
+- [Maxwell Varlack](https://github.com/varlackc)
 - [Mayuresh Deolekar](https://github.com/deolekarmayuresh)
 - [Meenal Jain](https://github.com/meenal21)
 - [Michael Akintomo (@MadeByM1KE)](https://github.com/Makintomo04)
